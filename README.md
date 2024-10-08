@@ -1,6 +1,6 @@
-# Nilear_Practise_fMRI
+# Nilear_Practice_fMRI
 
-Practises for Python In Neuroimaging Course 2024 IDS
+Practices for Python In Neuroimaging Course 2024 IDS
 -------------------------------------------------------------
 1. Preprocess the data with SPM 12 (Realign, Co-register, Normalization, Smoothing, Segmentation for Anat)
 2. Week 1: Loading and visualization functions
